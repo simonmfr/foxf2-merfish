@@ -1,0 +1,4 @@
+*.log
+runs/
+dea_runs/
+.ipynb_checkpoints/
